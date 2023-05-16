@@ -1,0 +1,269 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#### Add your code below following the instructions given in the course\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#H1 DataScience and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Data Science Tools are used to structure the raw data we get from the environment. All complicated data are processed, extracted, and analyzed to\n",
+    "find the solution or to make better changes in the business. Key pieces of data ecosystem are internal data source, external data source, software\n",
+    "and algorithm. Data Ecosystem help in cost saving, product analyze, customer satisfaction, process enhancement etc."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**OBJECTIVES**:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "* Dividing into raw and complicating data\n",
+    "* helps in deep learning\n",
+    "* helps in predecting and analyzing the business decision\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "**Some of the popular languages that Data Scientist use are**:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "* PYTHON\n",
+    "* SCALA \n",
+    "* JAVA\n",
+    "* SQL"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries by Data Scientist includes.\n",
+    "\n",
+    "1. SCIKIT-LEARN.\n",
+    "2. TENSOR FLOW.\n",
+    "3. PYTORCH.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "|DATA SCIENCE TOOLS|\n",
+    "|------------------|\n",
+    "|1. Apache Spark|\n",
+    "|2. KNIME|\n",
+    "|3. TENSORFLOW|\n",
+    "|4.TABLEAU|\n",
+    "|5.PYTHON|"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#h3 Below are the few examples of evaluating arthmetic expression in python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "a = 2\n",
+    "b = 3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "5\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(a+b)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "x = 100\n",
+    "y = 129\n",
+    "z = 67"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "296\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(x+y+z)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This is a simple arithmetic expression to multiply then add integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This will convert 200 minutes to hiurs by dividing by 60\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "3\n"
+     ]
+    }
+   ],
+   "source": [
+    "minutes = 200\n",
+    "seconds = 60\n",
+    "print(minutes//seconds)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "#H2 Author"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "PAVITHRA KISHORE\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
